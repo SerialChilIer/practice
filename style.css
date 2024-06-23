@@ -1,0 +1,39 @@
+.txt {
+
+}
+.first_block {
+    background: #F6F6F6;
+    min-width: 1440px;
+    min-Height: 288px;
+  }
+.quote {
+margin-left: 191px;
+    font-size: 16px;
+}
+.second_block {
+    min-width: 1440px;
+    min-height: 848px;
+}
+.Reviews {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    min-width: 1440px;
+    min-Height: 542px;
+
+}
+.Review1{
+    border: solid 1px black;
+    min-width: 350px;
+    min-Height: 422px;
+}
+.Review2{
+    border: solid 1px black;
+    min-width: 350px;
+    min-Height: 422px;
+}
+.Review3{
+    border: solid 1px black;
+    min-width: 350px;
+    min-Height: 422px;
+}
